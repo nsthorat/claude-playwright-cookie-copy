@@ -2,6 +2,8 @@
 
 Use your Chrome browser cookies with Playwright in Claude Code - no manual login needed!
 
+![image](https://github.com/user-attachments/assets/10480afe-5eaf-4ae5-902a-0598206073c6)
+
 ## Setup
 
 ```bash
