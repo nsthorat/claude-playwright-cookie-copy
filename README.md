@@ -5,7 +5,7 @@ Use your Chrome browser cookies with Playwright in Claude Code - no manual login
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/claude-playwright-cookie-copy
+git clone https://github.com/nsthorat/claude-playwright-cookie-copy
 cd claude-playwright-cookie-copy
 ./setup.sh
 ```
