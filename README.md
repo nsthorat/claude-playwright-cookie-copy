@@ -2,7 +2,7 @@
 
 Use your Chrome browser cookies with Playwright in Claude Code - no manual login needed!
 
-![image](https://github.com/user-attachments/assets/10480afe-5eaf-4ae5-902a-0598206073c6)
+![image](https://github.com/user-attachments/assets/bb7b4928-3993-4a3a-92dd-9fdcb74ea61c)
 
 ## Setup
 
