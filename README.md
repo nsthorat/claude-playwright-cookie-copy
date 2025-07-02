@@ -1,4 +1,4 @@
-# Chrome Cookie Copy for Playwright
+# Claude Code Playwright with Cookie Copying
 
 Use your Chrome browser cookies with Playwright in Claude Code - no manual login needed!
 
